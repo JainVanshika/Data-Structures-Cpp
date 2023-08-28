@@ -1,3 +1,4 @@
+//asked in the technical round for hexaview technologies
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -16,7 +17,7 @@ int main()
             sum2+=a[k];
         }
         if(sum1==sum2){
-            cout<<"equillibrium number:"<<a[i]; //-5
+            cout<<"equilibrium number:"<<a[i]; //-5
             break;
         }
     }
